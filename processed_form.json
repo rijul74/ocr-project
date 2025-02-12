@@ -1,0 +1,30 @@
+{
+    "patient_name": "N/A",
+    "dob": "2001-12-23",
+    "difficulty_ratings": {
+        "bending": 0,
+        "putting_on_shoes": 0,
+        "sleeping": 0,
+        "standing": 0,
+        "stairs": 0,
+        "walking": 0,
+        "driving": 0,
+        "preparing_meal": 0,
+        "yard_work": 0,
+        "picking_up_items": 0
+    },
+    "pain_symptoms": {
+        "pain": 0,
+        "numbness": 0,
+        "tingling": 0,
+        "burning": 0,
+        "tightness": 0
+    },
+    "medical_assistant_data": {
+        "blood_pressure": "5",
+        "hr": "N/A",
+        "weight": "N/A",
+        "height": "N/A"
+    },
+    "processed_at": "2025-02-11T21:48:48.263294"
+}

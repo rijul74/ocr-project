@@ -1,0 +1,27 @@
+2025-02-11 21:26:16,207 - ERROR - Database connection error: connection to server at "localhost" (::1), port 5432 failed: FATAL:  password authentication failed for user "your_username"
+
+2025-02-11 21:31:52,863 - ERROR - Database connection error: connection to server at "localhost" (::1), port 5432 failed: FATAL:  password authentication failed for user "username"
+
+2025-02-11 21:33:00,087 - ERROR - Database connection error: connection to server at "localhost" (::1), port 5432 failed: FATAL:  password authentication failed for user "username"
+
+2025-02-11 21:33:13,859 - ERROR - Database connection error: connection to server at "localhost" (::1), port 5432 failed: FATAL:  password authentication failed for user "username"
+
+2025-02-11 21:37:52,152 - ERROR - Database connection error: connection to server at "localhost" (::1), port 5432 failed: FATAL:  password authentication failed for user "username"
+
+2025-02-11 21:38:31,091 - INFO - Database tables created successfully
+2025-02-11 21:38:31,133 - ERROR - Error inserting form data: invalid input syntax for type date: ";"
+LINE 3:                 VALUES ('N/A', ';')
+                                       ^
+
+2025-02-11 21:39:14,696 - INFO - Database tables created successfully
+2025-02-11 21:39:14,754 - INFO - Form data inserted successfully for patient 4
+2025-02-11 21:49:35,550 - INFO - Database tables created successfully
+2025-02-11 21:49:35,582 - ERROR - Error inserting form data: date/time field value out of range: "2001-22-23"
+LINE 3:                 VALUES ('N/A', '2001-22-23')
+                                       ^
+HINT:  Perhaps you need a different "datestyle" setting.
+
+2025-02-11 21:49:51,850 - INFO - Database tables created successfully
+2025-02-11 21:49:51,891 - INFO - Form data inserted successfully for patient 5
+2025-02-12 14:44:40,629 - INFO - Database tables created successfully
+2025-02-12 14:44:40,788 - INFO - Form data inserted successfully for patient 6
